@@ -5,7 +5,7 @@
 ### Современный Minecraft-сервер нового поколения
 
 <img src="https://img.shields.io/badge/Версия-26.2-2ea44f?style=for-the-badge">
-<img src="https://img.shields.io/badge/Статус-Разработка-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Статус-Технический перерыв-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Paper-26.2-blue?style=for-the-badge">
 
 <br><br>
